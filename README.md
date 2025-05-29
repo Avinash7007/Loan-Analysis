@@ -1,4 +1,4 @@
-# Bank Loan Analysis 🚀
+# Loan Analysis 🚀
 
 ## 📌 Project Overview
 This project performs **Bank Loan Analysis** using **MS SQL Server & Power BI** to track key loan performance metrics, visualize trends, and categorize loans into Good/Bad based on repayment behavior.

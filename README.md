@@ -4,7 +4,7 @@
 This project performs **Loan Analysis** using **MS SQL Server & Power BI** to track key loan performance metrics, visualize trends, and categorize loans into Good/Bad based on repayment behavior.
 
 ## 📊 Tools & Technologies Used
-- **MS SQL Server** (Database Management, Queries)
+- **MYSQL Server** (Database Management, Queries)
 - **Power BI** (Data Visualization)
   
 ## 📌 Key Features & Dashboards

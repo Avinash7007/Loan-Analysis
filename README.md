@@ -24,8 +24,7 @@ This project performs **Loan Analysis** using **MS SQL Server & Power BI** to tr
 - **Loan Purpose Breakdown (Bar Chart)**
 - **Home Ownership Impact (Tree Map)**
 
-### 🔹 Dashboard 3: Details
-- A **consolidated grid view** showing loan data, borrower profiles, and loan performance.
+
 
 ## 🛠️ SQL Features Used
 - **Data Import & Cleaning**
@@ -39,7 +38,8 @@ This project performs **Loan Analysis** using **MS SQL Server & Power BI** to tr
 2. Open **Power BI** and connect it to the SQL database.
 3. Load the Power BI dashboards and explore the insights.
 
-# Dashboard:
+### 🔹 Dashboard 3: Details
+- A **consolidated grid view** showing loan data, borrower profiles, and loan performance.
 
 ![Screenshot 2025-06-23 015038](https://github.com/user-attachments/assets/d3fd7435-0644-47c3-9f9f-b3990bdded25)
 

@@ -39,6 +39,14 @@ This project performs **Loan Analysis** using **MS SQL Server & Power BI** to tr
 2. Open **Power BI** and connect it to the SQL database.
 3. Load the Power BI dashboards and explore the insights.
 
+# Dashboard:
+
+![Screenshot 2025-06-23 015038](https://github.com/user-attachments/assets/d3fd7435-0644-47c3-9f9f-b3990bdded25)
+
+![Screenshot 2025-06-23 015103](https://github.com/user-attachments/assets/0c486ca6-115f-45ed-a97d-b6117a0ad214)
+
+![Screenshot 2025-06-23 015119](https://github.com/user-attachments/assets/cce40247-15fd-462a-afd5-a5fbfebe038e)
+
 ## 🏆 Outcomes & Insights
 - Identified trends in **loan approvals & repayments**.
 - Assessed the **impact of employment, region, and home ownership** on loan eligibility.
